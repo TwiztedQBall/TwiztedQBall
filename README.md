@@ -1,6 +1,6 @@
 ### Hi there, I'm Billy - aka [TwiztedQBall][website]
 
-## I'm a Husband, Father, Developer in training, and gammer!
+## I'm a Husband, Father, Developer in training, and gamer!
 
 - I'm currently working on Fullstack development.
 - Learning everything, I currently am.
