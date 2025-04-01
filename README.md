@@ -1,4 +1,4 @@
-### Hi there, I'm Billy - aka [TwiztedQBall][website]
+### Hi there, I'm Billy
 
 ## I'm a Husband, Father, Developer in training, and Gamer!
 
